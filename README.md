@@ -12,3 +12,5 @@ _Notes_
 - `build/`: build folder
 - `colors/`: dependencies folder
 - `samples/`: handlers example
+
+This code is taken from [how to create node modules](https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module)
